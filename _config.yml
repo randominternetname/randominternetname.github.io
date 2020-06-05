@@ -18,13 +18,13 @@ sass:
 # About/contact
 author:
   name:              Natalie Paley
-  url:               https://twitter.com/zaglamir
-  email:             zach@thisismetis.com
+  url:               https://nataliemakes.com/
+  email:             eachdaybetter@outlook.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/zwmiller
+  repo:              https://github.com/randominternetname/Projects
 
 # Gems
 gems:
