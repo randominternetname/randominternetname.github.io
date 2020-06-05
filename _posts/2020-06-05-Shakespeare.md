@@ -53,9 +53,9 @@ You'll notice that each actor could play only one of the two other characters in
 
 I created an empty list for the first character in my dictionary and appended the intersection of that character's list and the character list of the first character they can play:
 
->If Matt can play Bob, Mary, Helen, and Jane
-and Bob can play Helen and Jane
-and Helen can play Bob, Joe, Jasper, and Jane
+>If Matt can play Bob, Mary, Helen, and Jane \n
+and Bob can play Helen and Jane \n
+and Helen can play Bob, Joe, Jasper, and Jane \n
 then Matt can play Bob, Helen, and Jane (without talking to themselves at any point).
 
 To loop through the next available character, Mary, first I needed to remove all of the previously assigned characters from the working copy of the full player list and the working copy of the dictionary of the character's lists of characters (as well as any key/value pairs with empty values.
