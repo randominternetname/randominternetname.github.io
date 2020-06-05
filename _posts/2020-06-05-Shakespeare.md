@@ -75,4 +75,4 @@ Rather than copying and pasting the list intersection code for each level of eac
 
 
 
-[^fn-sets_explanation]: Sets are lists which keep only unique items. (Click the return link to go back.)
+[^fn-sets_explanation]: Sets are lists which keep only unique items.
