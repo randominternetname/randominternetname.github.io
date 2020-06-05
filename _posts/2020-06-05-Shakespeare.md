@@ -20,8 +20,35 @@ These character lists were useful in guiding assigining roles by hand at the beg
 
 ## Second Iteration
 
-Using the dictionary of non-interacting characters I created in my first iteration of the project, I needed to figure out a way to find the unions between the lists.
+Using the dictionary of non-interacting characters I created in my first iteration of the project, I needed to figure out a way to find the unions between the lists.  For a simplified example, we'll say that there are only three scenes and four characters.  Scene 1 has Phebe and Jaques, Scene 2 Jaques and Roselind, Scene 3 Roselind and Celia.
 
+<table>
+  <thead>
+    <tr>
+      <th>An Actor Playing</th>
+      <th>Can Also Play</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Phebe</td>
+      <td>Roselind, Celia</td>
+    </tr>
+    <tr>
+      <td>Jaques</td>
+      <td>Roselind, Celia</td>
+    </tr>
+    <tr>
+      <td>Roselind</td>
+      <td>Phebe, Jaques</td>
+    </tr>
+    <tr>
+      <td>Celia</td>
+      <td>Phebe, Jaques</td>
+    </tr>
+  </tbody>
+</table>
 
+You'll notice that each actor could play only one of the two other characters in their "Can Also Play" list, but not both, since those characters interact.  Also, once a character has been assigned, it is no longer available to be assigned to another actor.
 
 [^fn-sets_explanation]: Sets are lists which keep only unique items. (Click the return link to go back.)
