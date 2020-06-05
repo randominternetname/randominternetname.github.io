@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TEST PART III
+title: TEST
 ---
 
 I am testing this:
