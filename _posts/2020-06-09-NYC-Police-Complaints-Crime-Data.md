@@ -13,7 +13,7 @@ Over the years, it seems like there are more and more incidences of the police v
 
 ### Crime Rates?
 
-As seen in my dashboard, the crime rate has decreased by 13% since 2006.[^fn-crime-reports]  This tracks the national average over the same timespan, suggesting that the number of crimes are not dependendant on the police budget nor on the population which only grew 2%.[^fn-population]  The number of civilian allegations against the NYPD varies greatly and does not seem to be related to the crime rate.[^fn-complaints1], [^fn-complaints2], [^fn-complaints3]
+As seen in my dashboard, the crime rate has decreased by 13% since 2006.[^fn-crime-reports]  This tracks the national average over the same timespan, suggesting that the number of crimes are not dependendant on the police budget nor on the population which only grew 2%.[^fn-population]  The number of civilian allegations against the NYPD varies greatly and does not seem to be related to the crime rate.[^fn-complaints1]<sup>,</sup> [^fn-complaints2]<sup>,</sup> [^fn-complaints3]
 
 
 ### Police Department Budgets?
@@ -43,7 +43,7 @@ Organizations such as [8 Can't Wait](https://8cantwait.org/) suggest several lim
 
 All of these guidelines have been in place for the NYPD since 2016, with some in place since the 1960's.[^fn-force]
 
-### De-militarization?[^fn-militarization], [^fn-militarization-research]
+### De-militarization?[^fn-militarization]<sup>,</sup> [^fn-militarization-research]
 
 I find the militarization of the police really disturbing and was hoping to explore the relationship between increased police armaments and decreased community relationships with the police.  The [Marshall Project](https://www.themarshallproject.org/2014/12/03/the-pentagon-finally-details-its-weapons-for-cops-giveaway#dod-graphic) has an easy to use tool for equipment transferred from the start of the 1033 Program to 2014.  For the raw data, I found the [Defense Logistics Agency's Law Enforcement Support Office](https://www.dla.mil/DispositionServices/FOIA/EFOIALibrary/) which provides equipment through the 1033 Program.  However, there are only 1138 records from 1998 to mid 2018.  So either they are not the main supplier of military equipment to the NYPD or there are records which I don't have access to.  (I did see some crazy things in that data, like dozens of rifles being transferred to multiple state universities.)[^fn-abuses_ten_thirty-three]
 
