@@ -13,7 +13,7 @@ Over the years, it seems like there are more and more incidences of the police v
 
 ### Crime Rates?
 
-As seen in my dashboard, the crime rate has decreased by 13% since 2006.[^fn-crime-reports]  This tracks the national average over the same timespan, suggesting that the number of crimes are not dependendant on the police budget nor on the population which only grew 2%.[^fn-population]  The number of civilian allegations against the NYPD varies greatly and does not seem to be related to the crime rate.[^fn-complaints]
+As seen in my dashboard, the crime rate has decreased by 13% since 2006.[^fn-crime-reports]  This tracks the national average over the same timespan, suggesting that the number of crimes are not dependendant on the police budget nor on the population which only grew 2%.[^fn-population]  The number of civilian allegations against the NYPD varies greatly and does not seem to be related to the crime rate.[^fn-complaints1] [^fn-complaints2] [^fn-complaints3]
 
 
 ### Police Department Budgets?
@@ -62,15 +62,13 @@ The Department of Justice has two methods to address police departments struggli
 * Samuel Sinyangwe, Founder of [Police Score Card](https://policescorecard.org/) has an amazing list of resources in this [Twitter thread](https://twitter.com/samswey/status/1180655701271732224)  
 * [Police Misconduct Cases 2011-2015, PDFs acquired by BuzzFeed News](https://www.buzzfeednews.com/article/kendalltaggart/nypd-police-misconduct-database)  
 
-## References and Data
-
 [^fn-discipline]: [Law repealed that kept police disciplinary records hidden](https://brooklyneagle.com/articles/2020/06/10/new-york-passes-bill-to-unveil-police-discipline-records/)  
 [^fn-agencies]: [NYC LEA](https://en.wikipedia.org/wiki/List_of_law_enforcement_agencies_in_New_York_(state)#New_York_City_agencies)
 [^fn-crime-reports]: [Crime data as logged by the city](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i/data)  
 [^fn-population]: [New York City's population by year](https://worldpopulationreview.com/us-cities/new-york-city-population/)  
-[^fn-complaints]: [Complaints received against the NYPD](https://data.cityofnewyork.us/Public-Safety/Civilian-Complaint-Review-Board-CCRB-Complaints-Re/63nx-cpi9)  
-[Complaints closed per year](https://data.cityofnewyork.us/Public-Safety/Civilian-Complaint-Review-Board-CCRB-Complaints-Cl/fx4z-5xg2)  
-[Allegations closed per year](https://data.cityofnewyork.us/Public-Safety/Civilian-Complaint-Review-Board-CCRB-Allegations-C/xyq2-jjkn) Note that allegations may contain multiple complaints.  
+[^fn-complaints1]: [Complaints received against the NYPD](https://data.cityofnewyork.us/Public-Safety/Civilian-Complaint-Review-Board-CCRB-Complaints-Re/63nx-cpi9)  
+[^fn-complaints2]: [Complaints closed per year](https://data.cityofnewyork.us/Public-Safety/Civilian-Complaint-Review-Board-CCRB-Complaints-Cl/fx4z-5xg2)  
+[^fn-complaints3]: [Allegations closed per year](https://data.cityofnewyork.us/Public-Safety/Civilian-Complaint-Review-Board-CCRB-Allegations-C/xyq2-jjkn) Note that allegations may contain multiple complaints.  
 [^fn-budget]: [NYPD Budgets by Year](https://council.nyc.gov/budget/)  
 [^fn-abuses_ten_thirty-three]: [Some instances of abuse](https://www.acfcs.org/from-warfighter-to-crimefighter-the-us-1033-program-and-the-risk-of-corruption-and-misuse-of-funds/)  
 [^fn-militarization]: [OpenTheBooks.com Oversight Report](https://www.openthebooks.com/assets/1/7/Oversight_Report_-_The_Miltarization_of_America_-_Traditional_Law_Enforcement_Agencies_Raw_Data_Report.pdf )_  
