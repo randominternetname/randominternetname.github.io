@@ -2,7 +2,9 @@
 layout: post
 title: Visualizing Allegations Against the NYPD
 ---
-<div class='tableauPlaceholder' id='viz1592354794643' style='position: relative'><noscript><a href='https:&#47;&#47;randominternetname.github.io&#47;'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NY&#47;NYPDInfo&#47;AllegationsagainsttheNYPD&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='NYPDInfo&#47;AllegationsagainsttheNYPD' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NY&#47;NYPDInfo&#47;AllegationsagainsttheNYPD&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1592354794643');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='1550px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<div class='tableauPlaceholder' id='viz1593107477922' style='position: relative'><noscript><a href='https:&#47;&#47;randominternetname.github.io&#47;'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DY&#47;DYHY72DXN&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;DYHY72DXN' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DY&#47;DYHY72DXN&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1593107477922');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='1550px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+[Link to my Tableau Viz](https://public.tableau.com/shared/DYHY72DXN?:display_count=y&:origin=viz_share_link)
 
 # The Problem
 
@@ -53,37 +55,35 @@ When officers work more than 40 hours per week, their use of excessive force has
  
 ### DOJ Collaborative Reform?
 The Department of Justice has two methods to address police departments struggling with high rates of excessive force.  Through either collaborative reform or a consent decree, the Justice Department’s Community Oriented Policing Services Office investigates and recommends policy updates.  When adopted, these reforms decrease police shootings by over 20%.[^fn-DOJ] 
- 
 
-## The Data
-
-
-
-### For More Information, I Recommend These Resources:
+## For More Information, I Recommend These Resources:
 * [Open The Books - DLA map searchable by zip code](https://www.openthebooks.com/maps/?Map=1&MapType=Pin&Zip=20740)  
 * [NYC Budget allocated to paying settlements against the NYPD](https://data.cityofnewyork.us/City-Government/Claims-Report-Underlying-Settlements-and-Claims-Fi/ex6k-ym48)  
 * Samuel Sinyangwe, Founder of [Police Score Card](https://policescorecard.org/) has an amazing list of resources in this [Twitter thread](https://twitter.com/samswey/status/1180655701271732224)  
 * [Police Misconduct Cases 2011-2015, PDFs acquired by BuzzFeed News](https://www.buzzfeednews.com/article/kendalltaggart/nypd-police-misconduct-database)  
 
-## Tools
-* Tableau
-* pandas
-* pickle
-
 ## References and Data
 
 [^fn-discipline]: [Law repealed that kept police disciplinary records hidden](https://brooklyneagle.com/articles/2020/06/10/new-york-passes-bill-to-unveil-police-discipline-records/)  
 [^fn-agencies]: [NYC LEA](https://en.wikipedia.org/wiki/List_of_law_enforcement_agencies_in_New_York_(state)#New_York_City_agencies)
-[^fn-crime-reports][Crime data as logged by the city](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i/data)  
-[^fn-population][New York City's population by year](https://worldpopulationreview.com/us-cities/new-york-city-population/)  
-[^fn-complaints][Complaints received against the NYPD](https://data.cityofnewyork.us/Public-Safety/Civilian-Complaint-Review-Board-CCRB-Complaints-Re/63nx-cpi9)  
+[^fn-crime-reports]: [Crime data as logged by the city](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i/data)  
+[^fn-population]: [New York City's population by year](https://worldpopulationreview.com/us-cities/new-york-city-population/)  
+[^fn-complaints]: [Complaints received against the NYPD](https://data.cityofnewyork.us/Public-Safety/Civilian-Complaint-Review-Board-CCRB-Complaints-Re/63nx-cpi9)  
 [Complaints closed per year](https://data.cityofnewyork.us/Public-Safety/Civilian-Complaint-Review-Board-CCRB-Complaints-Cl/fx4z-5xg2)  
 [Allegations closed per year](https://data.cityofnewyork.us/Public-Safety/Civilian-Complaint-Review-Board-CCRB-Allegations-C/xyq2-jjkn) Note that allegations may contain multiple complaints.  
-[^fn-budget][NYPD Budgets by Year](https://council.nyc.gov/budget/)  
+[^fn-budget]: [NYPD Budgets by Year](https://council.nyc.gov/budget/)  
 [^fn-abuses_ten_thirty-three]: [Some instances of abuse](https://www.acfcs.org/from-warfighter-to-crimefighter-the-us-1033-program-and-the-risk-of-corruption-and-misuse-of-funds/)  
 [^fn-militarization]: [OpenTheBooks.com Oversight Report](https://www.openthebooks.com/assets/1/7/Oversight_Report_-_The_Miltarization_of_America_-_Traditional_Law_Enforcement_Agencies_Raw_Data_Report.pdf )_  
 [^fn-militarization-research]: [Research into the effects of militarization](https://www.pnas.org/content/115/37/9181)  
 [^fn-force]: [NYPD Use of Force Guidelines](https://www1.nyc.gov/assets/ccrb/downloads/pdf/investigations_pdf/pg221-01-force-guidelines.pdf)  
-[^fn-community][Community funding research](https://journals.sagepub.com/doi/abs/10.1177/0003122417736289)  
-[^fn-overtime][King County Overtime Audit](https://www.kingcounty.gov/~/media/depts/auditor/new-web-docs/2017/kcao-overtime-2017/kcao-overtime-2017.ashx?la=en)  
-[^fn-DOJ][DOJ collaborative reform](https://www.vice.com/en_us/article/kznagw/jeff-sessions-is-walking-away-from-the-best-way-to-reduce-police-shootings)  
+[^fn-community]: [Community funding research](https://journals.sagepub.com/doi/abs/10.1177/0003122417736289)  
+[^fn-overtime]: [King County Overtime Audit](https://www.kingcounty.gov/~/media/depts/auditor/new-web-docs/2017/kcao-overtime-2017/kcao-overtime-2017.ashx?la=en)  
+[^fn-DOJ]: [DOJ collaborative reform](https://www.vice.com/en_us/article/kznagw/jeff-sessions-is-walking-away-from-the-best-way-to-reduce-police-shootings)  
+
+
+## Tools
+* Tableau
+* pandas
+* pickle
+* html
+* JavaScript
