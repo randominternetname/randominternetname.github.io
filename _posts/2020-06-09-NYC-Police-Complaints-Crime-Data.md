@@ -56,19 +56,19 @@ The Department of Justice has two methods to address police departments struggli
  
 
 ## The Data
-[^fn-crime-reports][Crime data as logged by the city](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i/data)
-[^fn-population][New York City's population by year](https://worldpopulationreview.com/us-cities/new-york-city-population/)
-[^fn-budget][NYPD Budgets by Year](https://council.nyc.gov/budget/)
-[^fn-complaints][Complaints received against the NYPD](https://data.cityofnewyork.us/Public-Safety/Civilian-Complaint-Review-Board-CCRB-Complaints-Re/63nx-cpi9)
-[Complaints closed per year](https://data.cityofnewyork.us/Public-Safety/Civilian-Complaint-Review-Board-CCRB-Complaints-Cl/fx4z-5xg2)
-[Allegations closed per year](https://data.cityofnewyork.us/Public-Safety/Civilian-Complaint-Review-Board-CCRB-Allegations-C/xyq2-jjkn) Note that allegations may contain multiple complaints.
+[^fn-crime-reports][Crime data as logged by the city](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i/data)  
+[^fn-population][New York City's population by year](https://worldpopulationreview.com/us-cities/new-york-city-population/)  
+[^fn-budget][NYPD Budgets by Year](https://council.nyc.gov/budget/)  
+[^fn-complaints][Complaints received against the NYPD](https://data.cityofnewyork.us/Public-Safety/Civilian-Complaint-Review-Board-CCRB-Complaints-Re/63nx-cpi9)  
+[Complaints closed per year](https://data.cityofnewyork.us/Public-Safety/Civilian-Complaint-Review-Board-CCRB-Complaints-Cl/fx4z-5xg2)  
+[Allegations closed per year](https://data.cityofnewyork.us/Public-Safety/Civilian-Complaint-Review-Board-CCRB-Allegations-C/xyq2-jjkn) Note that allegations may contain multiple complaints.  
 
 
 ### For More Information, I Recommend These Resources:
-[Open The Books - DLA map searchable by zip code](https://www.openthebooks.com/maps/?Map=1&MapType=Pin&Zip=20740)  
-[NYC Budget allocated to paying settlements against the NYPD](https://data.cityofnewyork.us/City-Government/Claims-Report-Underlying-Settlements-and-Claims-Fi/ex6k-ym48)  
-Samuel Sinyangwe, Founder of [Police Score Card](https://policescorecard.org/) has an amazing list of resources in this [Twitter thread](https://twitter.com/samswey/status/1180655701271732224)  
-[Police Misconduct Cases 2011-2015, PDFs acquired by BuzzFeed News](https://www.buzzfeednews.com/article/kendalltaggart/nypd-police-misconduct-database)
+* [Open The Books - DLA map searchable by zip code](https://www.openthebooks.com/maps/?Map=1&MapType=Pin&Zip=20740)  
+* [NYC Budget allocated to paying settlements against the NYPD](https://data.cityofnewyork.us/City-Government/Claims-Report-Underlying-Settlements-and-Claims-Fi/ex6k-ym48)  
+* Samuel Sinyangwe, Founder of [Police Score Card](https://policescorecard.org/) has an amazing list of resources in this [Twitter thread](https://twitter.com/samswey/status/1180655701271732224)  
+* [Police Misconduct Cases 2011-2015, PDFs acquired by BuzzFeed News](https://www.buzzfeednews.com/article/kendalltaggart/nypd-police-misconduct-database)  
 
 ## Tools
 * Tableau
@@ -77,12 +77,12 @@ Samuel Sinyangwe, Founder of [Police Score Card](https://policescorecard.org/) h
 
 ## References
 
-[^fn-discipline]: [Law repealed that kept police disciplinary records hidden](https://brooklyneagle.com/articles/2020/06/10/new-york-passes-bill-to-unveil-police-discipline-records/)
-[^fn-agencies]: [NYC LEA](https://en.wikipedia.org/wiki/List_of_law_enforcement_agencies_in_New_York_(state)#New_York_City_agencies)
-[^fn-abuses_ten_thirty-three]: [Some instances of abuse](https://www.acfcs.org/from-warfighter-to-crimefighter-the-us-1033-program-and-the-risk-of-corruption-and-misuse-of-funds/)
-[^fn-militarization]: [OpenTheBooks.com Oversight Report](https://www.openthebooks.com/assets/1/7/Oversight_Report_-_The_Miltarization_of_America_-_Traditional_Law_Enforcement_Agencies_Raw_Data_Report.pdf )_
-[^fn-militarization-research]: [Research into the effects of militarization](https://www.pnas.org/content/115/37/9181)
-[^fn-force]: [NYPD Use of Force Guidelines](https://www1.nyc.gov/assets/ccrb/downloads/pdf/investigations_pdf/pg221-01-force-guidelines.pdf)
-[^fn-overtime][King County Overtime Audit](https://www.kingcounty.gov/~/media/depts/auditor/new-web-docs/2017/kcao-overtime-2017/kcao-overtime-2017.ashx?la=en)
-[^fn-community][Community funding research](https://journals.sagepub.com/doi/abs/10.1177/0003122417736289)
-[^fn-DOJ][DOJ collaborative reform](https://www.vice.com/en_us/article/kznagw/jeff-sessions-is-walking-away-from-the-best-way-to-reduce-police-shootings)
+[^fn-discipline]: [Law repealed that kept police disciplinary records hidden](https://brooklyneagle.com/articles/2020/06/10/new-york-passes-bill-to-unveil-police-discipline-records/)  
+[^fn-agencies]: [NYC LEA](https://en.wikipedia.org/wiki/List_of_law_enforcement_agencies_in_New_York_(state)#New_York_City_agencies)  
+[^fn-abuses_ten_thirty-three]: [Some instances of abuse](https://www.acfcs.org/from-warfighter-to-crimefighter-the-us-1033-program-and-the-risk-of-corruption-and-misuse-of-funds/)  
+[^fn-militarization]: [OpenTheBooks.com Oversight Report](https://www.openthebooks.com/assets/1/7/Oversight_Report_-_The_Miltarization_of_America_-_Traditional_Law_Enforcement_Agencies_Raw_Data_Report.pdf )_  
+[^fn-militarization-research]: [Research into the effects of militarization](https://www.pnas.org/content/115/37/9181)  
+[^fn-force]: [NYPD Use of Force Guidelines](https://www1.nyc.gov/assets/ccrb/downloads/pdf/investigations_pdf/pg221-01-force-guidelines.pdf)  
+[^fn-overtime][King County Overtime Audit](https://www.kingcounty.gov/~/media/depts/auditor/new-web-docs/2017/kcao-overtime-2017/kcao-overtime-2017.ashx?la=en)  
+[^fn-community][Community funding research](https://journals.sagepub.com/doi/abs/10.1177/0003122417736289)  
+[^fn-DOJ][DOJ collaborative reform](https://www.vice.com/en_us/article/kznagw/jeff-sessions-is-walking-away-from-the-best-way-to-reduce-police-shootings)  
