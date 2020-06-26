@@ -2,18 +2,18 @@
 layout: post
 title: Visualizing Allegations Against the NYPD
 ---
-<div class='tableauPlaceholder' id='viz1593107477922' style='position: relative'><noscript><a href='https:&#47;&#47;randominternetname.github.io&#47;'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DY&#47;DYHY72DXN&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;DYHY72DXN' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DY&#47;DYHY72DXN&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1593107477922');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='1550px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+![Screenshot of Viz]({{ site.url }}/images/Screen Shot 2020-06-26 at 2.32.37 PM.png)
 
 [Link to my Tableau Viz](https://public.tableau.com/shared/DYHY72DXN?:display_count=y&:origin=viz_share_link)
 
 # The Problem
 
-Over the years, it seems like there are more and more incidences of the police violently attacking or killing people.  I wanted to understand for myself what was going on and created a visualization so anyone interested could also explore the data.  Of the 17 different Law Enforcement Agencies in New York City[^fn-agencies], I decided to dig into NYPD data to see what I could find.
+Police brutality is an ongoing crisis in the United States. It's important for citizens to have access to transparent data if we're going to enact lasting change, and I decided to develop a user-friendly tool for New Yorkers.  Of the 17 different Law Enforcement Agencies in New York City[^fn-agencies], I dug into NYPD data to see what I could find.
 
 
 ### Crime Rates?
 
-As seen in my dashboard, the crime rate has decreased by 13% since 2006.[^fn-crime-reports]  This tracks the national average over the same timespan, suggesting that the number of crimes are not dependendant on the police budget nor on the population which only grew 2%.[^fn-population]  The number of civilian allegations against the NYPD varies greatly and does not seem to be related to the crime rate.[^fn-complaints1]<sup>,</sup> [^fn-complaints2]<sup>,</sup> [^fn-complaints3]
+As seen in my dashboard, the crime rate has decreased by 13% since 2006.[^fn-crime-reports]  This tracks the national average over the same timespan, suggesting that the number of crimes are not dependant on the police budget nor on the population which only grew 2%.[^fn-population]  The number of civilian allegations against the NYPD varies greatly and does not seem to be related to the crime rate.[^fn-complaints1]<sup>,</sup> [^fn-complaints2]<sup>,</sup> [^fn-complaints3]
 
 
 ### Police Department Budgets?
