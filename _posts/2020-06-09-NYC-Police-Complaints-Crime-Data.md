@@ -4,7 +4,7 @@ title: Visualizing Allegations Against the NYPD
 ---
 ![Screenshot of Visualization]({{ site.url }}/images/NYPD.jpg)
 
-[Link to my Tableau Dashboard](https://public.tableau.com/shared/DYHY72DXN?:display_count=y&:origin=viz_share_link)
+[Link to my interactive Tableau Dashboard](https://public.tableau.com/shared/DYHY72DXN?:display_count=y&:origin=viz_share_link)
 
 # The Problem
 
