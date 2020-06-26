@@ -2,7 +2,7 @@
 layout: post
 title: Visualizing Allegations Against the NYPD
 ---
-![Screenshot of Viz]({{ site.url }}/images/Screen Shot 2020-06-26 at 2.32.37 PM.png)
+![Screenshot of Viz]({{ site.url }}/images/NYPD_Viz.png)
 
 [Link to my Tableau Viz](https://public.tableau.com/shared/DYHY72DXN?:display_count=y&:origin=viz_share_link)
 
